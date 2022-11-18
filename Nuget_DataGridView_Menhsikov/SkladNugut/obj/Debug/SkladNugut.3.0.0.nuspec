@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SkladNugut</id>
+    <version>3.0.0</version>
+    <authors>SkladNugut</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="DocumentFormat.OpenXml" version="2.18.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Перенос на другой ПК\Колледж\Коноплев\Nuget_DataGridView_Menhsikov\SkladNugut\bin\Debug\net6.0\SkladNugut.dll" target="lib\net6.0\SkladNugut.dll" />
+  </files>
+</package>

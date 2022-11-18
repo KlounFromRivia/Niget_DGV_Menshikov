@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Перенос на другой ПК\\Колледж\\Коноплев\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov.csproj": {}
+  },
+  "projects": {
+    "D:\\Перенос на другой ПК\\Колледж\\Коноплев\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Перенос на другой ПК\\Колледж\\Коноплев\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov.csproj",
+        "projectName": "Nuget_DataGridView_Menhsikov",
+        "projectPath": "D:\\Перенос на другой ПК\\Колледж\\Коноплев\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov.csproj",
+        "packagesPath": "C:\\Users\\terto\\.nuget\\packages\\",
+        "outputPath": "D:\\Перенос на другой ПК\\Колледж\\Коноплев\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\terto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Перенос на другой ПК\\Колледж\\Коноплев\\Nuget_DataGridView_Menhsikov\\SkladNugut\\bin": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "SkladNugut": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

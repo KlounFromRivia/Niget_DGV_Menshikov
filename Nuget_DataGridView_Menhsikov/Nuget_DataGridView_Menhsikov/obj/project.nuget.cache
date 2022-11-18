@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XTk9dzlCMshVy2AuHQCIkY18XVSMEYgYDJIafJv+2DnJVZ31L3za1Wh+5x59eilOd+UiFHGUciRvzj9QWj3Lew==",
+  "success": true,
+  "projectFilePath": "D:\\Перенос на другой ПК\\Колледж\\Коноплев\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov\\Nuget_DataGridView_Menhsikov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\terto\\.nuget\\packages\\documentformat.openxml\\2.18.0\\documentformat.openxml.2.18.0.nupkg.sha512",
+    "C:\\Users\\terto\\.nuget\\packages\\skladnugut\\3.0.0\\skladnugut.3.0.0.nupkg.sha512",
+    "C:\\Users\\terto\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
